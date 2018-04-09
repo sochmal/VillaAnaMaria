@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Villa Ana María</string>
+    <string name="action_guardar">Guardar</string>
+    <string name="action_cancelar">Cancelar</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_mesas">Mesas</string>
+    <string name="StrLugares">Lugares</string>
+    <string name="title_activity_pedido">Pedido</string>
+    <string name="SrtClienteCR">CI/RUC Cliente</string>
+    <string name="StrConsumidorFinal">99999999999</string>
+    <string name="StrNombreCliente">Nombre:</string>
+    <string name="StrNoconsumidorFinal">ConsumidorFinal</string>
+    <string name="StrDireccionCl">Dirección;</string>
+    <string name="StrAddCliente">Buscar Cliente</string>
+    <string name="StrBtnAddproducto">Agregar Producto</string>
+    <string name="StrMesa">Mesa</string>
+    <string name="StrDfaMesa">Q210</string>
+    <string name="StrLGrill">Grill</string>
+    <string name="StrLChoCafe">ChocoCafetería</string>
+    <string name="StrLPizzeria">Pizzería</string>
+    <string name="StrLPatio">Patio</string>
+    <string name="StrCrearCliente">Crear Cliente</string>
+    <string name="StrCIRUCCliente">CI / RUC</string>
+    <string name="StrTelefono">Teléfono</string>
+    <string name="StrEmail">Email</string>
+    <string name="strGuardar">Guardar</string>
+    <string name="StrCancelar">Cancelar</string>
+    <string name="StrcantidadPersonas">Cantidad Personas</string>
+    <string name="StrSelectPosicion">Seleccione Posición</string>
+    <string name="StrObservaciones">Observaciones</string>
+    <string name="StrTitulo1">LLene los campos requeridos</string>
+    <string name="strCantidadpro">Ingrese cantidad:</string>
+    <string name="StrObservacionespro">Ingrese observaciones</string>
+    <string name="SrtTituloGuardar">¿Desea guardar el producto?</string>
+    <string name="StrProducto">Producto :</string>
+    <string name="StrTermino">Termino :</string>
+    <string name="strPosicion">Posición :</string>
+    <string name="StrCosto">Precio :</string>
+    <string name="StrCantidad">Cantidad</string>
+    <string name="strCeroDefault">0</string>
+    <string name="StrOpcionesProductos">¿Que operación desea realizar sobre el producto?</string>
+    <string name="StrModificar">Modificar</string>
+    <string name="StrEliminar">Eliminar</string>
+    <string name="StrVpagar" > Valor a pagar: </string>
+    <string name="StrUpdate">Actualizar</string>
+    <string name="StrDefaultServer">http://192.168.6.229/villa/account/prog/tablet/</string>
+    <string name="SrtServidor">Servidor :</string>
+    <string name="StrTodosProductos">Cargar todos los productos</string>
+</resources>

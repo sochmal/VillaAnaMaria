@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.villanamaria.app.villaanamara.MainActivity">
+
+    <item
+        android:id="@+id/action_save"
+        android:title="@string/strGuardar"
+        android:icon="@drawable/ic_save"
+        app:showAsAction="always|withText"
+        />
+    <item
+        android:id="@+id/action_cancel"
+        android:title="@string/StrCancelar"
+        android:icon="@drawable/ic_close"
+        app:showAsAction="always|withText"
+        android:tooltipText="@string/action_cancelar"/>
+</menu>
